@@ -34,6 +34,14 @@ class Program
             Address = "888 Easy St, Testville, TN 11111"
         };
 
+        // Contact guy = new Contact("Guy","Cherkesky","guy@cherkesky.com", "somewhere");
+
+        // Contact guy2 = new Contact(){
+        //     FirstName = "Guy", LastName = "Cherkesky",
+        //     Email = "guy@cherkesky.com",
+        //     Address = "somewhere2"
+        // }
+
 
         // Create an AddressBook and add some contacts to it
         AddressBook addressBook = new AddressBook();

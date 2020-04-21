@@ -11,15 +11,15 @@ namespace addressbook{
 
     public string FullName {
       get{
-      return $"FirstName+LastName";
+      return $"{FirstName}+{LastName}";
       }
     }
-    public Contact (string first, string last, string email, string address){
-      FirstName = first;
-      LastName = last;
-      Email=email;
-      Address=address;
-    }
+    // public Contact (string first, string last, string email, string address){
+    //   FirstName = first;
+    //   LastName = last;
+    //   Email=email;
+    //   Address=address;
+    // }
 
   }
 }
