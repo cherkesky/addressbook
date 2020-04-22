@@ -35,7 +35,8 @@ class Program
         };
 
         Contact guy = new Contact(){
-            FirstName="guy"
+            FirstName="guy" , Email = "guy@cherkesky.com",
+
         };
 
         // Contact guy = new Contact("Guy","Cherkesky","guy@cherkesky.com", "somewhere");
@@ -67,6 +68,7 @@ class Program
             "sue.jones@email.com",
             "juan.lopez@email.com",
             "bob.smith@email.com",
+            "guy@cherkesky.com",
         };
 
         // Insert an email that does NOT match a Contact
