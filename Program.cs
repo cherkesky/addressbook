@@ -34,6 +34,10 @@ class Program
             Address = "888 Easy St, Testville, TN 11111"
         };
 
+        Contact guy = new Contact(){
+            FirstName="guy"
+        };
+
         // Contact guy = new Contact("Guy","Cherkesky","guy@cherkesky.com", "somewhere");
 
         // Contact guy2 = new Contact(){
@@ -50,7 +54,7 @@ class Program
         addressBook.AddContact(juan);
 
         // Try to addd a contact a second time
-        addressBook.AddContact(sue);
+        // addressBook.AddContact(sue);
 
 
         // Create a list of emails that match our Contacts
@@ -61,7 +65,7 @@ class Program
         };
 
         // Insert an email that does NOT match a Contact
-        emails.Insert(1, "not.in.addressbook@email.com");
+        // emails.Insert(1, "not.in.addressbook@email.com");
 
 
         //  Search the AddressBook by email and print the information about each Contact

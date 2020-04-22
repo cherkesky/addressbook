@@ -1,0 +1,12 @@
+/Users/cherkesky/workspace/csharp/addressbook/bin/Debug/netcoreapp3.1/addressbook.deps.json
+/Users/cherkesky/workspace/csharp/addressbook/bin/Debug/netcoreapp3.1/addressbook.runtimeconfig.json
+/Users/cherkesky/workspace/csharp/addressbook/bin/Debug/netcoreapp3.1/addressbook.runtimeconfig.dev.json
+/Users/cherkesky/workspace/csharp/addressbook/bin/Debug/netcoreapp3.1/addressbook.dll
+/Users/cherkesky/workspace/csharp/addressbook/bin/Debug/netcoreapp3.1/addressbook.pdb
+/Users/cherkesky/workspace/csharp/addressbook/obj/Debug/netcoreapp3.1/addressbook.csprojAssemblyReference.cache
+/Users/cherkesky/workspace/csharp/addressbook/obj/Debug/netcoreapp3.1/addressbook.csproj.CoreCompileInputs.cache
+/Users/cherkesky/workspace/csharp/addressbook/obj/Debug/netcoreapp3.1/addressbook.AssemblyInfoInputs.cache
+/Users/cherkesky/workspace/csharp/addressbook/obj/Debug/netcoreapp3.1/addressbook.AssemblyInfo.cs
+/Users/cherkesky/workspace/csharp/addressbook/obj/Debug/netcoreapp3.1/addressbook.dll
+/Users/cherkesky/workspace/csharp/addressbook/obj/Debug/netcoreapp3.1/addressbook.pdb
+/Users/cherkesky/workspace/csharp/addressbook/obj/Debug/netcoreapp3.1/addressbook.genruntimeconfig.cache

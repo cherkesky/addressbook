@@ -11,7 +11,7 @@ namespace addressbook{
 
     public string FullName {
       get{
-      return $"{FirstName}+{LastName}";
+      return $"{FirstName} {LastName}";
       }
     }
     // public Contact (string first, string last, string email, string address){
